@@ -108,3 +108,7 @@ public
 
 release
 debug
+
+.dockerignore
+Dockerfile
+yelpcamp_latest.tar.gz
